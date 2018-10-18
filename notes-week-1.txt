@@ -1,0 +1,24 @@
+Notes
+
+7 main principles (from gestalt principles)
+all are connected and are guidelines
+use these to guide the user through the UI
+
+* Alignemnt
+  grids are a tool for Alignemnt
+  setting relationships from one element ot the next
+* Emphasis
+  creates interest and pulls the users attention to a focal point
+* Hierarchy
+  the relationships between elements in a composition(app)
+* Consistancy
+  similar items should look similar
+* White space
+  the unmarked space between elements
+  must relate to the other element
+* Balance
+  optical equilibrium - symetrical and asymetrical
+* Unity
+  all elements are in agreement
+  
+
